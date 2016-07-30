@@ -67,6 +67,34 @@
 	width: 100%;
 }
 
-.contenedor{
-  display: inline-block;
+.contenedor {
+	background-color: #212121;
+	border-radius: 5%;
+	margin: .5em;
+}
+
+.imagen {
+	border-radius: 50%;
+	height: 50%;
+	width: 50%;
+	background-color: white;
+}
+
+.ima-cont {
+	text-align: center;
+}
+
+.texto {
+	text-align: justify;
+	color: white;
+	letter-spacing: 2px;
+	padding: 1em;
+	word-wrap: break-word;
+}
+
+h3 {
+	text-align: center;
+	color: white;
+	letter-spacing: 3px;
+	text-transform: uppercase;
 }
